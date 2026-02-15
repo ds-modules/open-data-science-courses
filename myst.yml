@@ -17,16 +17,18 @@ project:
       children:
         - file: adoption/data6.md
         - file: adoption/data8.md
+        - file: adoption/data100.md
     - title: edX Courses
       children:
         - file: edx-courses/C88C.md
         - file: edx-courses/88B.md
+        - file: edx-courses/88E.md
+        - file: edx-courses/data8.md
 
 site:
   template: book-theme
   options:
     base: /open-data-science-courses/
-    # Add favicon: _static/favicon.ico when you have a favicon
     logo_text: Open Data Science Courses
     extra_css:
       - _static/custom.css
