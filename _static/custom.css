@@ -1,0 +1,15 @@
+/* Custom styles for Open Data Science Courses Jupyter Book */
+
+:root {
+  --pst-header-height: 60px;
+}
+
+/* Optional: adjust sidebar or content width */
+.bd-main .bd-content {
+  max-width: 100%;
+}
+
+/* Optional: style for in-page callouts */
+div.admonition {
+  margin: 1em 0;
+}
