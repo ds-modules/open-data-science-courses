@@ -8,4 +8,4 @@ Information and resources for the **88B** edX course.
 
 This course may be available on edX. For the latest availability, search for "88B" on the [edX platform](https://www.edx.org/search?q=88B).
 
-Add course description, links, and materials here.
+Add more if necessary.

@@ -8,4 +8,4 @@ Information and resources for the **C88C** edX course.
 
 This course may be available on edX. For the latest availability, search for "C88C" on the [edX platform](https://www.edx.org/search?q=C88C).
 
-Add course description, links, and materials here.
+Add more if necessary.

@@ -83,10 +83,30 @@ project:
             - file: adoption/data8/useful_links.md
        # - file: adoption/data100.md
     - title: edX Courses
+      file: edx-courses/intro.md
       children:
-        - file: edx-courses/C88C.md
-        - file: edx-courses/88B.md
-        - file: edx-courses/88E.md
+        - file: edx-courses/intro.md
+        - title: C88C
+          file: edx-courses/C88C/intro.md
+          children:
+            - file: edx-courses/C88C/intro.md
+            - file: edx-courses/C88C/part1.md
+            - file: edx-courses/C88C/part2.md
+            - file: edx-courses/C88C/part3.md
+        - title: 88B
+          file: edx-courses/88B/intro.md
+          children:
+            - file: edx-courses/88B/intro.md
+            - file: edx-courses/88B/part1.md
+            - file: edx-courses/88B/part2.md
+            - file: edx-courses/88B/part3.md
+        - title: 88E
+          file: edx-courses/88E/intro.md
+          children:
+            - file: edx-courses/88E/intro.md
+            - file: edx-courses/88E/part1.md
+            - file: edx-courses/88E/part2.md
+            - file: edx-courses/88E/part3.md
        # - file: edx-courses/data8.md
 
 site:
