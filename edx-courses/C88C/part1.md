@@ -20,6 +20,6 @@ The part ends with **Review and Wrap-up for 88.1X**.
 
 - **Modules:** 7 content modules (plus “Succeeding in this Course” and Review and Wrap-up).
 - **Labs:** 4 Jupyter lab assignments (Modules 1, 2, 3, and 6).
-- **Homework:** Homework assignments are spread across the modules; you can take the course for free (audit) or pay for a verified certificate when you complete the full C88C sequence.
+- **Homework:** 4 assignments.
 
 [← C88C overview](intro.md) · [Part 2 →](part2.md)

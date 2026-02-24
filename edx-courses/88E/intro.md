@@ -2,7 +2,7 @@
 
 Information and resources for the **88E** edX course.
 
-**Course Overview:** 88E is offered on the edX platform and is organized in three parts. The course introduces computational thinking and programming concepts for data science: fundamental programming constructs, data structures, algorithms, and problem-solving techniques in Python. Topics progress from foundations (functions, iteration, sequences, higher-order functions, mutability) through recursion and object-oriented programming to efficiency, linked lists and trees, iterators and generators, and databases with SQL. The course can be taken for free (audit) or with a paid verified certificate upon completion.
+**Course Overview:** 88E is an economics and data course offered on the edX platform, organized in three parts. It covers microeconomic and macroeconomic concepts with a data and modeling focus: demand and supply, government and welfare, production and macroeconomic policy, utility, inequality and development, game theory, econometrics, environmental economics, and finance. Each module includes lectures, a Jupyter lab, and a quiz. The course can be taken for free (audit) or with a paid verified certificate upon completion.
 
 ## How to Access
 

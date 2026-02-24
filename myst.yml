@@ -16,7 +16,6 @@ project:
     - title: Adoption Pages
       children:
         - title: Data 6
-          file: adoption/data6/intro.md
           children:
             - file: adoption/data6/intro.md
             - title: Adoption Guide
@@ -39,7 +38,6 @@ project:
               children:
                 - file: adoption/data6/resources/resources.md
         - title: Data 8
-          file: adoption/data8/intro.md
           children:
             - file: adoption/data8/intro.md
             - title: Syllabus & Lectures
@@ -83,25 +81,21 @@ project:
             - file: adoption/data8/useful_links.md
        # - file: adoption/data100.md
     - title: edX Courses
-      file: edx-courses/intro.md
       children:
         - file: edx-courses/intro.md
         - title: C88C
-          file: edx-courses/C88C/intro.md
           children:
             - file: edx-courses/C88C/intro.md
             - file: edx-courses/C88C/part1.md
             - file: edx-courses/C88C/part2.md
             - file: edx-courses/C88C/part3.md
         - title: 88B
-          file: edx-courses/88B/intro.md
           children:
             - file: edx-courses/88B/intro.md
             - file: edx-courses/88B/part1.md
             - file: edx-courses/88B/part2.md
             - file: edx-courses/88B/part3.md
         - title: 88E
-          file: edx-courses/88E/intro.md
           children:
             - file: edx-courses/88E/intro.md
             - file: edx-courses/88E/part1.md
