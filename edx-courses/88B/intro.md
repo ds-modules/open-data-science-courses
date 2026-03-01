@@ -1,4 +1,4 @@
-# 88B
+# DATA88B
 
 Information and resources for the **88B** edX course.
 

@@ -1,4 +1,4 @@
-# 88E — Part 3
+# DATA88E.3 — Real-World Applications of Economics
 
 **About this course (Part 3 of 3):** 88E concludes with game theory, econometrics, environmental economics, and finance.
 

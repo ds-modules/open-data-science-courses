@@ -1,4 +1,4 @@
-# 88B — Part 1
+# DATA88B.1 — Data Exploration
 
 **About this course (Part 1 of 3):** 88B provides an in-depth exploration of data-driven decision making, from foundational concepts through visualization and simulation. Part 1 covers introductory modules on data management, probability, weighted averages, visualization, and simulation.
 

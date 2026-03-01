@@ -83,19 +83,19 @@ project:
     - title: edX Courses
       children:
         - file: edx-courses/intro.md
-        - title: C88C
+        - title: DATA88C
           children:
             - file: edx-courses/C88C/intro.md
             - file: edx-courses/C88C/part1.md
             - file: edx-courses/C88C/part2.md
             - file: edx-courses/C88C/part3.md
-        - title: 88B
+        - title: DATA88B
           children:
             - file: edx-courses/88B/intro.md
             - file: edx-courses/88B/part1.md
             - file: edx-courses/88B/part2.md
             - file: edx-courses/88B/part3.md
-        - title: 88E
+        - title: DATA88E
           children:
             - file: edx-courses/88E/intro.md
             - file: edx-courses/88E/part1.md

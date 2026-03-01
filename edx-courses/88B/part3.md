@@ -1,4 +1,4 @@
-# 88B — Part 3
+# DATA88B.3 — Linear Regression
 
 **About this course (Part 3 of 3):** 88B concludes with linear regression, multiple regression, non-linearity, logistic regression, and interaction. Part 3 ties together modeling and regression for data-driven decisions.
 

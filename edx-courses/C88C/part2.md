@@ -1,4 +1,4 @@
-# C88C — Part 2
+# DATA88C.2 - Recursion and Object-Oriented Programming
 
 **About this course (Part 2 of 3):** C88C: Computational Structures in Data Science introduces computational thinking and programming concepts specifically tailored for data science applications. The course covers fundamental programming constructs, data structures, algorithms, and computational problem-solving techniques. Part 2 focuses on recursion, abstract data types (ADTs), and object-oriented programming (OOP) in Python, building directly on the foundations from Part 1.
 

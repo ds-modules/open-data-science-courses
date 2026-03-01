@@ -1,4 +1,4 @@
-# C88C
+# DATA88C
 
 Information and resources for the **C88C** edX course.
 
@@ -7,5 +7,3 @@ Information and resources for the **C88C** edX course.
 ## How to Access
 
 This course may be available on edX. For the latest availability, search for "C88C" on the [edX platform](https://www.edx.org/search?q=C88C).
-
-Add more if necessary.

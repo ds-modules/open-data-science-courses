@@ -1,4 +1,4 @@
-# 88E — Part 1
+# DATA88E.1 — Fundamentals of Economics
 
 **About this course (Part 1 of 3):** 88E is an economics and data course on the edX platform. Part 1 covers the foundations: demand, supply, and government and welfare, with a focus on data and modeling.
 

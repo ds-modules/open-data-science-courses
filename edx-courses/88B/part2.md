@@ -1,4 +1,4 @@
-# 88B — Part 2
+# DATA88B.2 — Inferential Statistics
 
 **About this course (Part 2 of 3):** 88B continues with hypothesis testing, confidence intervals, A/B testing, and chi-squared tests. Part 2 builds on Part 1 with inference and causal reasoning.
 

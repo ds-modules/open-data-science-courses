@@ -1,4 +1,4 @@
-# 88E — Part 2
+# DATA88E.2 — Advanced Concepts in Economics
 
 **About this course (Part 2 of 3):** 88E builds on Part 1 with production and macroeconomic policy, utility (including LATEX), and inequality and development.
 

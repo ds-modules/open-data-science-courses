@@ -1,4 +1,4 @@
-# 88E
+# DATA88E
 
 Information and resources for the **88E** edX course.
 

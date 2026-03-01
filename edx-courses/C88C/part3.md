@@ -1,4 +1,4 @@
-# C88C — Part 3
+# DATA88C.3 — Working with Data Structures
 
 **About this course (Part 3 of 3):** C88C: Computational Structures in Data Science introduces computational thinking and programming concepts specifically tailored for data science applications. The course covers fundamental programming constructs, data structures, algorithms, and computational problem-solving techniques. Part 3 focuses on efficiency, linked and tree structures, iterators and generators, programming paradigms, and databases with SQL, tying together the ideas from Parts 1 and 2.
 
