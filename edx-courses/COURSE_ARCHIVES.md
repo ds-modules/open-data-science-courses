@@ -1,8 +1,10 @@
-# edX Course Archives — Which File Is Which Course
+Note that these have come from my downloads, not 100% sure if it is same for any download.
+
+# edX Course Archives - Which File Is Which Course
 
 Use this to match downloaded course exports (`.tar.gz` or extracted folders) to the correct course and part on this site.
 
-## C88C — Computational Structures in Data Science
+## C88C - Computational Structures in Data Science
 
 | Part | Archive (tar.gz)      | Extracted folder  | Content (modules)                          |
 |------|------------------------|-------------------|--------------------------------------------|
@@ -14,7 +16,7 @@ Use this to match downloaded course exports (`.tar.gz` or extracted folders) to 
 
 ---
 
-## 88E — Economics and Data
+## 88E - Economics and Data
 
 88E uses the **economics** archives (different from C88C):
 
@@ -28,7 +30,7 @@ Use this to match downloaded course exports (`.tar.gz` or extracted folders) to 
 
 ---
 
-## 88B — Data and Decision Making
+## 88B - Data and Decision Making
 
 88B uses these archives (statistics, hypothesis testing, regression):
 
