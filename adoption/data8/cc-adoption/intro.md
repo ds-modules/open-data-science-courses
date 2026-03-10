@@ -47,6 +47,33 @@ Here is a [screen recording](https://drive.google.com/file/d/1rBG97FUwMdV3QQas7z
 
 You can download the Canvas template [here](https://drive.google.com/file/d/167mhYuq3msva3TO3agFr2jVlPMuzcusw/view?usp=drive_link)
 
+**Updating assignment links for your JupyterHub**
+
+The default template links assignment URLs to datahub.berkeley.edu. If your institution uses a different JupyterHub (e.g., your campus hub), you need to rewrite those links before importing. Use the [Canvas JupyterHub rewriter](https://canvas.juphub.com) to update the zip or .imscc file:
+
+1. **Upload** your Canvas template (zip or .imscc file) to the rewriter.
+2. **Enter your JupyterHub URL** (e.g., `datahub.berkeley.edu/hub` or your institution’s hub URL).
+3. **Enter the materials repository URL** — for Data 8, use `https://github.com/data-8/materials-fds`.
+4. **Scan and preview** to see how links will change.
+5. **Check the preview** — confirm that old links (e.g., pasadena.cloudbank.org) are being rewritten to your hub and that the repo points to `data-8/materials-fds`.
+6. **Rewrite and download** the updated file, then import that file into Canvas.
+
+[Video: Jupyter rewriter walkthrough](https://www.youtube.com/watch?v=xbvQF5HmwUw)
+
+**Uploading the IMCC file to Canvas**
+
+Once you have the rewritten .imscc file from the Jupyter rewriter, import it into Canvas:
+
+1. **Create a new course** (or use an existing one) — Settings → Start a new course, name it (e.g., "Data 8 example").
+2. **Go to Import course content** — In your Canvas course, open the course menu and select Import Course Content.
+3. **Select Common cartridge 1.x package** as the content type.
+4. **Upload** the rewritten .imscc file you downloaded from the rewriter.
+5. **Choose import options** — For a fresh course, you can upload all content. If you have existing content, you can select specific content, adjust due dates, or choose to overwrite matching assessments.
+6. **Wait for the import** — The status will show "queued" then "running" with a progress bar. This may take a minute or two.
+7. **Verify the links** — After import, click on an assignment (e.g., Homework 1) and check the link in the bottom-left corner of your browser. It should show your JupyterHub URL (e.g., datahub.berkeley.edu), not the original template hub. Click through to confirm the notebook loads correctly.
+
+[Video: Uploading IMCC to Canvas](https://www.youtube.com/watch?v=tsi-z_cf8Pc)
+
 We can help you with this process as well.
 
 This [week-to-week layout](https://www.data8.org/materials-fds/demo.html) mirrors the Canvas Course layout as well. It is a good resource to get an overview of the course as well explore alternative platforms to render Jupyter Notebooks.

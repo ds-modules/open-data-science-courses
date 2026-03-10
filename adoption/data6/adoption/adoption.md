@@ -127,13 +127,38 @@ We can help you configure the Canvas shell we have set up for you.
 
 1. **Download the Canvas template**: [Canvas Template Download](https://drive.google.com/file/d/1Xaw4GtlKdvEVneQZmPDfTXVjCvr00o8W/view?usp=sharing)
 
-2. **Import into Canvas**: 
-   - Go to your Canvas course
-   - Navigate to Settings → Import Course Content
-   - Upload the template file
-   - Customize as needed for your institution
+2. **Update assignment links for your JupyterHub**: The default template links to datahub.berkeley.edu. If your institution uses a different JupyterHub, use the [Canvas JupyterHub rewriter](https://canvas.juphub.com) to update the zip or .imscc file before importing:
 
-3. **Configure JupyterHub links**: Update assignment links to point to your JupyterHub instance
+   - Upload your Canvas template (zip or .imscc file) to the rewriter
+   - Enter your JupyterHub URL (e.g., `datahub.berkeley.edu/hub` or your institution's hub URL)
+   - Enter the materials repository URL — for Data 6, use `https://github.com/dubois-ctds/data-6-materials-student`
+   - Scan and preview to see how links will change
+   - Check the preview — confirm that old links are being rewritten to your hub and that the repo points to `dubois-ctds/data-6-materials-student`
+   - Rewrite and download the updated file
+
+*Video: JupyterHub rewriter*
+
+:::{iframe} https://www.youtube.com/embed/xbvQF5HmwUw
+:width: 100%
+
+:::
+
+3. **Import into Canvas**: Once you have the rewritten .imscc file (or the original template if using datahub.berkeley.edu):
+
+   - Create a new course (or use an existing one) — Settings → Start a new course, name it (e.g., "Data 6 example")
+   - Go to Import Course Content — In your Canvas course, open the course menu and select Import Course Content
+   - Select **Common cartridge 1.x package** as the content type
+   - Upload the .imscc file (the rewritten file from step 2, or the original template)
+   - Choose import options — For a fresh course, upload all content; for existing content, select specific content, adjust due dates, or overwrite matching assessments
+   - Wait for the import — Status will show "queued" then "running" with a progress bar
+   - **Verify the links** — After import, click on an assignment (e.g., Homework 1) and check the link in the bottom-left corner of your browser. It should show your JupyterHub URL. Click through to confirm the notebook loads correctly
+
+*Video: Uploading the Canvas template*
+
+:::{iframe} https://www.youtube.com/embed/tsi-z_cf8Pc
+:width: 100%
+
+:::
 
 ```{note}
 **Canvas Shell Features**
@@ -225,5 +250,4 @@ For detailed grading instructions, see the [Grading Guide](grading/grading.md).
 - Try importing sections individually if the full import fails
 
 **Need more help?** Contact us at [data6@berkeley.edu](mailto:data6@berkeley.edu)
-
 
