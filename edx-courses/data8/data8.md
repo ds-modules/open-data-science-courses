@@ -8,4 +8,6 @@ Information and resources for the **Data 8** edX course.
 
 This course may be available on edX. For the latest availability, search for "Data 8" on the [edX platform](https://www.edx.org/search?q=Data+8).
 
-Add course description, links, and materials here.
+## Source and Materials
+
+This edX course is based on UC Berkeley's Data 8: Foundations of Data Science. The official Berkeley site is [data8.org](https://data8.org/), which hosts the publicly licensed textbook, assignments, and lecture materials that much of this content is adapted from or closely follows.

@@ -7,3 +7,7 @@ Information and resources for the **88B** edX course.
 ## How to Access
 
 This course may be available on edX. For the latest availability, search for "88B" or "Data 88B" on the [edX platform](https://www.edx.org/search?q=88B). Use the links in the sidebar for Part 1, Part 2, and Part 3 overviews and topics.
+
+## Source and Materials
+
+This edX course is adapted from UC Berkeley's 88B class. The structure, topics, and many of the labs and assignments are derived from or closely modeled on the materials used in that course.
