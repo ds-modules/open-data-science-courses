@@ -1,0 +1,119 @@
+version: 1
+
+project:
+  title: Open Data Science Courses
+  authors:
+    - name: UC Berkeley
+  bibliography:
+    - references.bib
+  jupyter: true
+  exports:
+    - format: pdf
+      template: plain_latex_book
+      output: exports/book.pdf
+  toc:
+    - file: intro.md
+    - title: Adoption Pages
+      children:
+        - title: Data 6
+          children:
+            - file: adoption/data6/intro.md
+            - title: Adoption Guide
+              children:
+                - file: adoption/data6/adoption/adoption.md
+            - title: Course Materials
+              children:
+                - file: adoption/data6/syllabus/syllabus.md
+                - file: adoption/data6/course-notes/course-notes.md
+            - title: Technical Infrastructure
+              children:
+                - file: adoption/data6/infrastructure/infrastructure.md
+            - title: Grading
+              children:
+                - file: adoption/data6/grading/grading.md
+            - title: FAQ
+              children:
+                - file: adoption/data6/faq/faq.md
+            - title: Resources
+              children:
+                - file: adoption/data6/resources/resources.md
+        - title: Data 8
+          children:
+            - file: adoption/data8/intro.md
+            - title: Syllabus & Lectures
+              children:
+                - file: adoption/data8/syllabus/intro.md
+                - file: adoption/data8/syllabus/inspiration.md
+                - file: adoption/data8/syllabus/syllabus.md
+                - file: adoption/data8/syllabus/slides.md
+            - file: adoption/data8/textbook.md
+            - file: adoption/data8/datascience.md
+            - title: Course Staff
+              children:
+                - file: adoption/data8/staff/intro.md
+                - file: adoption/data8/staff/roles.md
+            - file: adoption/data8/cc-adoption/intro.md
+            - file: adoption/data8/notebooks-platforms/intro.md
+            - title: Authoring Notebooks
+              children:
+                - file: adoption/data8/authoring/intro.md
+                - file: adoption/data8/authoring/minor_changes_screen_recordings.md
+                - file: adoption/data8/authoring/authoring_screen_recordings.md
+                - file: adoption/data8/authoring/otter-examples.ipynb
+            - title: Grading
+              children:
+                - file: adoption/data8/grading/intro.md
+                - file: adoption/data8/grading/otter_service_standalone.md
+                - file: adoption/data8/grading/gradescope.md
+                - file: adoption/data8/grading/local.md
+            - title: Jupyter Notebook Assignments
+              children:
+                - file: adoption/data8/jupyter/intro.md
+                - file: adoption/data8/jupyter/jupyter_assignments.md
+                - file: adoption/data8/jupyter/distribution.md
+                - file: adoption/data8/jupyter/making_assignments.md
+            - title: Labs, Worksheets, and Discussions
+              children:
+                - file: adoption/data8/labs/intro.md
+                - file: adoption/data8/labs/labs.md
+                - file: adoption/data8/labs/tutors.md
+            - file: adoption/data8/connectors_modules.md
+            - file: adoption/data8/useful_links.md
+       # - file: adoption/data100.md
+    - title: edX Courses
+      children:
+        - file: edx-courses/intro.md
+        - title: DATA88C
+          children:
+            - file: edx-courses/C88C/intro.md
+            - file: edx-courses/C88C/part1.md
+            - file: edx-courses/C88C/part2.md
+            - file: edx-courses/C88C/part3.md
+        - title: DATA88B
+          children:
+            - file: edx-courses/88B/intro.md
+            - file: edx-courses/88B/part1.md
+            - file: edx-courses/88B/part2.md
+            - file: edx-courses/88B/part3.md
+        - title: DATA88E
+          children:
+            - file: edx-courses/88E/intro.md
+            - file: edx-courses/88E/part1.md
+            - file: edx-courses/88E/part2.md
+            - file: edx-courses/88E/part3.md
+       # - file: edx-courses/data8.md
+
+site:
+  template: book-theme
+  options:
+    base: /open-data-science-courses/
+    favicon: favicon.ico
+    logo: favicon.ico
+    logo_text: Open Data Science Courses
+    extra_css:
+      - _static/custom.css
+    navigation_with_keys: true
+    show_toc_level: 2
+    show_navbar_depth: 2
+    use_issues_button: true
+    use_repository_button: true
