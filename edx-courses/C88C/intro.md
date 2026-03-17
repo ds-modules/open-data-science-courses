@@ -10,4 +10,4 @@ This course may be available on edX. For the latest availability, search for "C8
 
 ## Source and Materials
 
-This edX course is based on UC Berkeley's Data C88C: Computational Structures in Data Science. The official Berkeley course website is [Data C88C Spring 2026](https://c88c.org/sp26/), and many of the lectures, labs, and assignments here are adapted from or closely follow the open educational resources provided there.
+This edX course is based on UC Berkeley's Data C88C: Computational Structures in Data Science. The official Berkeley course website is [Data C88C Spring 2026](https://c88c.org), and many of the lectures, labs, and assignments here are adapted from or closely follow the open educational resources provided there.
