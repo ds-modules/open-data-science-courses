@@ -2,6 +2,8 @@
 
 UC Berkeley offers data science and computing courses on the [edX platform](https://www.edx.org). This section gives an overview of what we offer and how each course is structured.
 
+To help gauge learner engagement, we published the ["88x JupyterHub Activity" dashboard](https://edx-berkeley.github.io/edx-usage/), which tracks monthly active users by course and shows the last recorded activity per student on the JupyterHub-enabled assignments.
+
 
 ## How Each Course Is Structured
 
