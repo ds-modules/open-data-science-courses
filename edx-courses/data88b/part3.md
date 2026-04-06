@@ -18,4 +18,3 @@ Each module includes lecture content and Jupyter lab assignments.
 - **Modules:** 4 content modules (plus “Succeeding in This Course” where applicable)
 - **Labs:** 4 Jupyter lab assignments
 - **Quizzes:** 4 quizzes
-
