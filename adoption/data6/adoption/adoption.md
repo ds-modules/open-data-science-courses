@@ -127,7 +127,7 @@ We can help you configure the Canvas shell we have set up for you.
 
 1. **Download the Canvas template**: [Canvas Template Download](https://drive.google.com/file/d/1Xaw4GtlKdvEVneQZmPDfTXVjCvr00o8W/view?usp=sharing)
 
-2. **Update assignment links for your JupyterHub**: The default template links to datahub.berkeley.edu. If your institution uses a different JupyterHub, use the [Canvas JupyterHub rewriter](https://canvas.juphub.com) to update the zip or .imscc file before importing:
+2. **Update assignment links for your JupyterHub**: The default template links to datahub.berkeley.edu. If your institution uses a different JupyterHub, use the [Canvas JupyterHub rewriter](https://ds-modules.github.io/canvas-jupyterhub-rewriter/) to update the zip or .imscc file before importing:
 
    - Upload your Canvas template (zip or .imscc file) to the rewriter
    - Enter your JupyterHub URL (e.g., `datahub.berkeley.edu/hub` or your institution's hub URL)

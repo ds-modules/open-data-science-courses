@@ -49,7 +49,7 @@ You can download the Canvas template [here](https://drive.google.com/file/d/167m
 
 **Updating assignment links for your JupyterHub**
 
-The default template links assignment URLs to datahub.berkeley.edu. If your institution uses a different JupyterHub (e.g., your campus hub), you need to rewrite those links before importing. Use the [Canvas JupyterHub rewriter](https://canvas.juphub.com) to update the zip or .imscc file:
+The default template links assignment URLs to datahub.berkeley.edu. If your institution uses a different JupyterHub (e.g., your campus hub), you need to rewrite those links before importing. Use the [Canvas JupyterHub rewriter](https://ds-modules.github.io/canvas-jupyterhub-rewriter/) to update the zip or .imscc file:
 
 1. **Upload** your Canvas template (zip or .imscc file) to the rewriter.
 2. **Enter your JupyterHub URL** (e.g., `datahub.berkeley.edu/hub` or your institution’s hub URL).
