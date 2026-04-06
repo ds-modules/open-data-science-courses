@@ -64,7 +64,7 @@ You can grade a folder of notebooks by compressing the folder into a zip file an
 
 If you visit the private solutions repository (access provided after completing the [Instructor Interest Form](https://forms.gle/2nNtbfgBtNsUHypCA)), and browse to the folder `autograder_zips`, you will find the solutions to your assignment. Download the autograder.zip file for the assignment you are grading.
 
-If you do not have access to this repository, please complete the [Instructor Interest Form](https://forms.gle/2nNtbfgBtNsUHypCA) or email us at [data6@berkeley.edu](mailto:data6@berkeley.edu) for access.
+If you do not have access to this repository, please complete the [Instructor Interest Form](https://forms.gle/2nNtbfgBtNsUHypCA) or email us at [ds-help@berkeley.edu](mailto:ds-help@berkeley.edu) for access.
 
 **Step 4:** Upload the student notebooks and autograder.zip to the service
 

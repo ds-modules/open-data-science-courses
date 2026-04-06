@@ -4,7 +4,7 @@
 
 **Q: How much does it cost to adopt Data 6?**
 
-A: The course materials are completely free. You'll need institutional support for computing infrastructure (JupyterHub) and LMS (Canvas), which most institutions already have. We can help you set up JupyterHub if your institution doesn't have one.
+A: The course materials are completely free. You will need a way for students to run notebooks (we often help with JupyterHub through [Cloudbank](https://www.cloudbank.org/)) and an LMS if you want to use our Canvas cartridge—many campuses already have both. If you do not have a hub yet, we can discuss options.
 
 **Q: Can I modify the materials for my institution?**
 
@@ -12,15 +12,11 @@ A: Yes! The public materials are available for you to adapt and customize. We on
 
 **Q: What if I don't have JupyterHub at my institution?**
 
-A: We can help you set one up, or you can use alternative platforms like Google Colab, Binder, or your institution's existing computing infrastructure. Contact us at [data6@berkeley.edu](mailto:data6@berkeley.edu) to discuss options.
+A: We can help you set one up, or you can use alternative platforms like Google Colab, Binder, or your institution's existing computing infrastructure. Contact us at [ds-help@berkeley.edu](mailto:ds-help@berkeley.edu) to discuss options.
 
 **Q: How long does the adoption process take?**
 
-A: Typically 2-4 weeks from initial contact to full deployment, depending on your institution's IT processes. The timeline includes:
-- Completing the Instructor Interest Form (1 day)
-- Getting access to private repositories (1-3 days)
-- Setting up JupyterHub (1-2 weeks, depending on your IT)
-- Configuring Canvas and grading (3-5 days)
+A: Many instructors are **up and running in a couple of hours** once they have GitHub access and import the Canvas template. Completing the [Instructor Interest Form](https://forms.gle/2nNtbfgBtNsUHypCA) and getting repository access usually takes 24 hours. If JupyterHub is provisioned through Cloudbank, that part may take longer depending on scheduling—we will tell you what to expect when you get in touch.
 
 **Q: Do I need to be at a specific type of institution?**
 
@@ -42,7 +38,7 @@ A: Yes! While we provide a Canvas template, the materials can be adapted for oth
 
 **Q: What about accessibility and privacy requirements?**
 
-A: We provide HECVAT (privacy) and VPAT (accessibility) documentation. Jupyter accessibility is an ongoing effort, and we're committed to making the materials accessible. See the [Adoption Guide](adoption/adoption.md) for more details.
+A: We provide [HECVAT](https://docs.google.com/spreadsheets/d/18_Q1b0tisNkQeyj1ibEuvq2Nq7DIF99v/edit?gid=1214776280#gid=1214776280) documentation for privacy. For accessibility questions or institutional documentation, email [ds-help@berkeley.edu](mailto:ds-help@berkeley.edu). The [Adoption Guide](adoption/adoption.md) summarizes what to expect when you adopt the course.
 
 ## Grading Questions
 
@@ -61,17 +57,17 @@ A: Students submit their notebooks, and the grading service automatically execut
 A: We provide:
 - Access to private solution repositories
 - Canvas template and setup assistance
-- JupyterHub configuration help
+- Help with JupyterHub through Cloudbank when that is part of your adoption
 - Grading infrastructure support
 - Community forum and email support
 
 **Q: Can I get training on how to teach Data 6?**
 
-A: Yes! We offer workshops and can provide training materials. Contact us at [data6@berkeley.edu](mailto:data6@berkeley.edu) to discuss training options.
+A: Yes! We offer workshops and can provide training materials. Contact us at [ds-help@berkeley.edu](mailto:ds-help@berkeley.edu) to discuss training options.
 
 **Q: What if I run into problems during setup?**
 
-A: Contact us at [data6@berkeley.edu](mailto:data6@berkeley.edu). We're here to help troubleshoot issues and can often resolve problems quickly.
+A: Contact us at [ds-help@berkeley.edu](mailto:ds-help@berkeley.edu). We're here to help troubleshoot issues and can often resolve problems quickly.
 
 ## Course Content Questions
 

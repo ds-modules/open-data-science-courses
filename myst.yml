@@ -15,28 +15,23 @@ project:
     - file: intro.md
     - title: Adoption Pages
       children:
-        - title: Data 6
+        - file: adoption/data6/intro.md
+          title: Data 6
           children:
-            - file: adoption/data6/intro.md
-            - title: Adoption Guide
-              children:
-                - file: adoption/data6/adoption/adoption.md
+            - file: adoption/data6/adoption/adoption.md
+              title: Adoption Guide
             - title: Course Materials
               children:
                 - file: adoption/data6/syllabus/syllabus.md
                 - file: adoption/data6/course-notes/course-notes.md
-            - title: Technical Infrastructure
-              children:
-                - file: adoption/data6/infrastructure/infrastructure.md
-            - title: Grading
-              children:
-                - file: adoption/data6/grading/grading.md
-            - title: FAQ
-              children:
-                - file: adoption/data6/faq/faq.md
-            - title: Resources
-              children:
-                - file: adoption/data6/resources/resources.md
+            - file: adoption/data6/infrastructure/infrastructure.md
+              title: Technical Infrastructure
+            - file: adoption/data6/grading/grading.md
+              title: Grading
+            - file: adoption/data6/faq/faq.md
+              title: FAQ
+            - file: adoption/data6/resources/resources.md
+              title: Resources
         - title: Data 8
           children:
             - file: adoption/data8/intro.md

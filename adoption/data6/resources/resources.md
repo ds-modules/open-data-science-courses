@@ -31,7 +31,7 @@ We strongly recommend supplementing Data 6 materials with these foundational tex
 ## Community and Support
 
 - [Data Science at Berkeley](https://data.berkeley.edu/)
-- Contact: [data6@berkeley.edu](mailto:data6@berkeley.edu)
+- Contact: [ds-help@berkeley.edu](mailto:ds-help@berkeley.edu)
 - [Data 6 Instructor Interest Form](https://forms.gle/2nNtbfgBtNsUHypCA)
 
 ## DUBOIS Project
@@ -42,8 +42,9 @@ Learn more about the DUBOIS project: [https://dubois-ctds.github.io/](https://du
 
 ## Accessibility
 
-- [Jupyter Accessibility Documentation](https://jupyter-accessibility.readthedocs.io/)
-- [Accessibility Extension](https://a11y.datahub.berkeley.edu/)
+For accessibility needs or institutional documentation, email [ds-help@berkeley.edu](mailto:ds-help@berkeley.edu).
+
+- [Accessibility extension](https://a11y.datahub.berkeley.edu/) (Berkeley DataHub) — tool for assessing notebook accessibility
 
 ## Privacy and Security
 

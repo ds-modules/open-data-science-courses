@@ -44,5 +44,5 @@ The Data 6 course notes are built using Quarto and hosted on GitHub Pages.
 
 For more detailed technical information, see ["The Data Science Educator's Guide to Technical Infrastructure"](https://ucbds-infra.github.io/ds-course-infra-guide/intro.html).
 
-If you need help setting up infrastructure at your institution, please contact [data6@berkeley.edu](mailto:data6@berkeley.edu).
+If you need help setting up infrastructure at your institution, please contact [ds-help@berkeley.edu](mailto:ds-help@berkeley.edu).
 
