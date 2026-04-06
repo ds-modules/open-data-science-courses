@@ -125,7 +125,7 @@ After completing the Instructor Interest Form, you will be added to private solu
 
 We can help you configure the Canvas shell we have set up for you.
 
-1. **Download the Canvas template**: [Canvas Template Download](https://drive.google.com/file/d/1Xaw4GtlKdvEVneQZmPDfTXVjCvr00o8W/view?usp=sharing)
+1. **Download the Canvas template**: [Canvas Template Download](https://drive.google.com/file/d/1ioxchiwz1PPDJk6A5X-HVJeIR0n4rMRl/view?usp=sharing)
 
 2. **Update assignment links for your JupyterHub**: The default template links to datahub.berkeley.edu. If your institution uses a different JupyterHub, use the [Canvas JupyterHub rewriter](https://ds-modules.github.io/canvas-jupyterhub-rewriter/) to update the zip or .imscc file before importing:
 
