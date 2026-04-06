@@ -18,19 +18,19 @@ project:
         - file: adoption/data6/intro.md
           title: Data 6
           children:
-            - file: adoption/data6/adoption/adoption.md
+            - file: adoption/data6/adoption.md
               title: Adoption Guide
             - title: Course Materials
               children:
-                - file: adoption/data6/syllabus/syllabus.md
-                - file: adoption/data6/course-notes/course-notes.md
-            - file: adoption/data6/infrastructure/infrastructure.md
+                - file: adoption/data6/syllabus.md
+                - file: adoption/data6/course-notes.md
+            - file: adoption/data6/infrastructure.md
               title: Technical Infrastructure
-            - file: adoption/data6/grading/grading.md
+            - file: adoption/data6/grading.md
               title: Grading
-            - file: adoption/data6/faq/faq.md
+            - file: adoption/data6/faq.md
               title: FAQ
-            - file: adoption/data6/resources/resources.md
+            - file: adoption/data6/resources.md
               title: Resources
         - title: Data 8
           children:
