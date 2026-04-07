@@ -15,66 +15,66 @@ project:
     - file: intro.md
     - title: Adoption Pages
       children:
-        - file: adoption/data6/intro.md
+        - file: adoption_courses/data6/intro.md
           title: Data 6
           children:
-            - file: adoption/data6/adoption.md
+            - file: adoption_courses/data6/adoption.md
               title: Adoption Guide
             - title: Course Materials
               children:
-                - file: adoption/data6/syllabus.md
-                - file: adoption/data6/course-notes.md
-            - file: adoption/data6/infrastructure.md
+                - file: adoption_courses/data6/syllabus.md
+                - file: adoption_courses/data6/course-notes.md
+            - file: adoption_courses/data6/infrastructure.md
               title: Technical Infrastructure
-            - file: adoption/data6/grading.md
+            - file: adoption_courses/data6/grading.md
               title: Grading
-            - file: adoption/data6/faq.md
+            - file: adoption_courses/data6/faq.md
               title: FAQ
-            - file: adoption/data6/resources.md
+            - file: adoption_courses/data6/resources.md
               title: Resources
         - title: Data 8
           children:
-            - file: adoption/data8/intro.md
+            - file: adoption_courses/data8/intro.md
             - title: Syllabus & Lectures
               children:
-                - file: adoption/data8/syllabus/intro.md
-                - file: adoption/data8/syllabus/inspiration.md
-                - file: adoption/data8/syllabus/course_structure.md
-                - file: adoption/data8/syllabus/slides.md
-            - file: adoption/data8/textbook.md
-            - file: adoption/data8/datascience.md
+                - file: adoption_courses/data8/syllabus/intro.md
+                - file: adoption_courses/data8/syllabus/inspiration.md
+                - file: adoption_courses/data8/syllabus/course_structure.md
+                - file: adoption_courses/data8/syllabus/slides.md
+            - file: adoption_courses/data8/textbook.md
+            - file: adoption_courses/data8/datascience.md
             - title: Course Staff
               children:
-                - file: adoption/data8/staff/intro.md
-                - file: adoption/data8/staff/roles.md
-            - file: adoption/data8/cc-adoption/intro.md
-            - file: adoption/data8/notebooks-platforms/intro.md
+                - file: adoption_courses/data8/staff/intro.md
+                - file: adoption_courses/data8/staff/roles.md
+            - file: adoption_courses/data8/cc-adoption/intro.md
+            - file: adoption_courses/data8/notebooks-platforms/intro.md
             - title: Authoring Notebooks
               children:
-                - file: adoption/data8/authoring/intro.md
-                - file: adoption/data8/authoring/minor_changes_screen_recordings.md
-                - file: adoption/data8/authoring/authoring_screen_recordings.md
-                - file: adoption/data8/authoring/otter-examples.ipynb
+                - file: adoption_courses/data8/authoring/intro.md
+                - file: adoption_courses/data8/authoring/minor_changes_screen_recordings.md
+                - file: adoption_courses/data8/authoring/authoring_screen_recordings.md
+                - file: adoption_courses/data8/authoring/otter-examples.ipynb
             - title: Grading
               children:
-                - file: adoption/data8/grading/intro.md
-                - file: adoption/data8/grading/otter_service_standalone.md
-                - file: adoption/data8/grading/gradescope.md
-                - file: adoption/data8/grading/local.md
+                - file: adoption_courses/data8/grading/intro.md
+                - file: adoption_courses/data8/grading/otter_service_standalone.md
+                - file: adoption_courses/data8/grading/gradescope.md
+                - file: adoption_courses/data8/grading/local.md
             - title: Jupyter Notebook Assignments
               children:
-                - file: adoption/data8/jupyter/intro.md
-                - file: adoption/data8/jupyter/jupyter_assignments.md
-                - file: adoption/data8/jupyter/distribution.md
-                - file: adoption/data8/jupyter/making_assignments.md
+                - file: adoption_courses/data8/jupyter/intro.md
+                - file: adoption_courses/data8/jupyter/jupyter_assignments.md
+                - file: adoption_courses/data8/jupyter/distribution.md
+                - file: adoption_courses/data8/jupyter/making_assignments.md
             - title: Labs, Worksheets, and Discussions
               children:
-                - file: adoption/data8/labs/intro.md
-                - file: adoption/data8/labs/lab_sections.md
-                - file: adoption/data8/labs/tutors.md
-            - file: adoption/data8/connectors_modules.md
-            - file: adoption/data8/useful_links.md
-       # - file: adoption/data100.md
+                - file: adoption_courses/data8/labs/intro.md
+                - file: adoption_courses/data8/labs/lab_sections.md
+                - file: adoption_courses/data8/labs/tutors.md
+            - file: adoption_courses/data8/connectors_modules.md
+            - file: adoption_courses/data8/useful_links.md
+       # - file: adoption_courses/data100.md
     - title: edX Courses
       children:
         - file: edx-courses/intro.md
