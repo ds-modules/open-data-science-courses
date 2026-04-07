@@ -31,7 +31,7 @@ Teaching Data Science requires a shift in the way we traditionally teach each of
 
 1. **[Complete the Instructor Interest Form](https://forms.gle/2nNtbfgBtNsUHypCA)** - Get access to solutions and resources
 2. **[Fork the public materials](https://github.com/dubois-ctds/data-6-materials-student)** - Start exploring the course content
-3. **[Read the Adoption Guide](adoption/adoption.md)** - Step-by-step instructions
+3. **[Read the Adoption Guide](adoption.md)** - Step-by-step instructions
 
 **Questions?** Email us at [ds-help@berkeley.edu](mailto:ds-help@berkeley.edu)
 ```
@@ -78,7 +78,7 @@ You can expect the following:
 ```{note}
 **Available Resources**
 
-- **[The Data 6 course notes](course-notes/course-notes.md)** serve as lecture notes for the course. They are available at [data6.org/notes](https://data6.org/notes/). These notes complement each topic in the class but should be supplemented with foundational texts.
+- **[The Data 6 course notes](course-notes.md)** serve as lecture notes for the course. They are available at [data6.org/notes](https://data6.org/notes/). These notes complement each topic in the class but should be supplemented with foundational texts.
 - **[Public student materials](https://github.com/dubois-ctds/data-6-materials-student)** include Jupyter notebooks for labs, homeworks, and projects. These are publicly available on GitHub.
 - **Private course materials**, including solutions, exams, and answers. These are kept private in order to protect the integrity of the Data 6 courses at Berkeley and being run elsewhere. Access to solutions requires completing the [Instructor Interest Form](https://forms.gle/2nNtbfgBtNsUHypCA).
 ```

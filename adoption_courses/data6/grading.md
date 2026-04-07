@@ -143,5 +143,5 @@ Finally, the [command line reference](https://otter-grader.readthedocs.io/en/lat
 
 Grades are typically managed through your institution's LMS (Canvas, etc.), with automated grades imported from the grading system.
 
-For more information about setting up grading infrastructure, see the [Infrastructure section](../infrastructure/infrastructure.md).
+For more information about setting up grading infrastructure, see the [Infrastructure section](infrastructure.md).
 

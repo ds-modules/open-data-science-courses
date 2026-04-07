@@ -58,7 +58,7 @@ We ask that anyone using these materials do not distribute solutions. This prote
 After completing the Instructor Interest Form, you will be added to private repositories and to grading infrastructure as needed. Accepting invitations in the browser is usually faster than hunting through email.
 
 1. **Solutions repository**: Open [dubois-ctds/data-6-materials-solutions](https://github.com/dubois-ctds/data-6-materials-solutions) while logged into GitHub. If you have a pending invitation, GitHub will prompt you to accept it.
-2. **Otter grading service org**: Open the [otter-service-stdalone](https://github.com/orgs/otter-service-stdalone) organization page and accept the invitation if prompted (see the [Grading section](grading/grading.md) for how to use the service).
+2. **Otter grading service org**: Open the [otter-service-stdalone](https://github.com/orgs/otter-service-stdalone) organization page and accept the invitation if prompted (see the [Grading section](grading.md) for how to use the service).
 3. **Verify access**: You should see the private solutions repository and any related repos in your GitHub account.
 
 ```{tip}
@@ -168,7 +168,7 @@ Here is how students will interact with assignments:
    - Download the `autograder.zip` file for the assignment you're grading
 
 3. **Grade automatically**:
-   - Use one of the grading methods (see [Grading section](grading/grading.md)):
+   - Use one of the grading methods (see [Grading section](grading.md)):
      - **Otter Service Standalone** (recommended, web-based)
      - **GradeScope** (paid service with Canvas integration)
      - **Local grading** (full control, requires setup)
@@ -183,7 +183,7 @@ Here is how students will interact with assignments:
 - Most assignments grade in about 1 minute per 10 notebooks
 - Keep backup copies of graded files
 
-For detailed grading instructions, see the [Grading Guide](grading/grading.md).
+For detailed grading instructions, see the [Grading Guide](grading.md).
 ```
 
 ## Troubleshooting

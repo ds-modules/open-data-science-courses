@@ -38,13 +38,13 @@ A: Yes! While we provide a Canvas template, the materials can be adapted for oth
 
 **Q: What about accessibility and privacy requirements?**
 
-A: We provide [HECVAT](https://docs.google.com/spreadsheets/d/18_Q1b0tisNkQeyj1ibEuvq2Nq7DIF99v/edit?gid=1214776280#gid=1214776280) documentation for privacy. For accessibility questions or institutional documentation, email [ds-help@berkeley.edu](mailto:ds-help@berkeley.edu). The [Adoption Guide](adoption/adoption.md) summarizes what to expect when you adopt the course.
+A: We provide [HECVAT](https://docs.google.com/spreadsheets/d/18_Q1b0tisNkQeyj1ibEuvq2Nq7DIF99v/edit?gid=1214776280#gid=1214776280) documentation for privacy. For accessibility questions or institutional documentation, email [ds-help@berkeley.edu](mailto:ds-help@berkeley.edu). The [Adoption Guide](adoption.md) summarizes what to expect when you adopt the course.
 
 ## Grading Questions
 
 **Q: Do I have to use automated grading?**
 
-A: No, but it's highly recommended. Automated grading saves significant time and provides consistent feedback. We support three options: Otter Service Standalone (web-based), GradeScope (paid service), or local grading. See the [Grading section](grading/grading.md) for details.
+A: No, but it's highly recommended. Automated grading saves significant time and provides consistent feedback. We support three options: Otter Service Standalone (web-based), GradeScope (paid service), or local grading. See the [Grading section](grading.md) for details.
 
 **Q: How does the grading service work?**
 
