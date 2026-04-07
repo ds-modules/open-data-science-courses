@@ -39,7 +39,7 @@ project:
               children:
                 - file: adoption/data8/syllabus/intro.md
                 - file: adoption/data8/syllabus/inspiration.md
-                - file: adoption/data8/syllabus/syllabus.md
+                - file: adoption/data8/syllabus/course_structure.md
                 - file: adoption/data8/syllabus/slides.md
             - file: adoption/data8/textbook.md
             - file: adoption/data8/datascience.md
@@ -70,7 +70,7 @@ project:
             - title: Labs, Worksheets, and Discussions
               children:
                 - file: adoption/data8/labs/intro.md
-                - file: adoption/data8/labs/labs.md
+                - file: adoption/data8/labs/lab_sections.md
                 - file: adoption/data8/labs/tutors.md
             - file: adoption/data8/connectors_modules.md
             - file: adoption/data8/useful_links.md
