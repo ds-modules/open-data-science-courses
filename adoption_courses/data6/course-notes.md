@@ -36,7 +36,7 @@ We strongly recommend supplementing these notes with foundational texts prepared
 
 - **Data 8**: [_Computational and Inferential Thinking: The Foundations of Data Science_](https://inferentialthinking.com/), 2nd Edition, by Ani Adhikari, John DeNero, David Wagner.
 - **CS 61A**: [_Composing Programs_](https://www.composingprograms.com/), by John DeNero.
-- **Stat 20**: [Course Notes](https://www.stat20.org/notes) by Andrew Bray.
+- **Stat 20**: [Course Notes](https://stat20.berkeley.edu/spring-2026/notes.html) by Andrew Bray.
 ```
 
 ## Accessing the Notes
