@@ -74,6 +74,11 @@ project:
                 - file: adoption_courses/data8/labs/tutors.md
             - file: adoption_courses/data8/connectors_modules.md
             - file: adoption_courses/data8/useful_links.md
+        - file: adoption_courses/data9/intro.md
+          title: Data 9
+          children:
+            - file: adoption_courses/data9/slides.md
+              title: Lecture Slides
        # - file: adoption_courses/data100.md
     - title: edX Courses
       children:
