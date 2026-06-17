@@ -1,3 +1,7 @@
+---
+short_title: Slides
+---
+
 # Lecture Slides and Demos
 
 Data 9 lecture materials are organized as Jupyter notebooks—usable as slide decks in class and as runnable demos for students.

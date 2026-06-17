@@ -1,8 +1,8 @@
 ---
-short_title: Data 9
+short_title: Intro
 ---
 
-# Data 9: Practical Data Science — Adoption Guide
+# Data 9: Practical Data Science
 
 **Data 9** (taught at El Camino College as **CSCI 9: Practical Data Science**) is an intermediate data science course designed for students who have completed a foundations course like Data 8. It bridges introductory data science and the tools and workflows used in industry—without the mathematical intensity of courses like Data 100.
 
