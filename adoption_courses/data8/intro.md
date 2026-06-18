@@ -20,9 +20,11 @@ To explore the guide, select a section to the left!
 There are many kinds of content associated with Data 8, released under two different licenses. You can find more complete information [at the Data 8 adoption website](https://data.berkeley.edu/external/data8-adoption). Here is a quick breakdown:
 
 - [**The Data 8 textbook**](textbook.md) is the textbook used by Data 8, with material that complements each topic in the class. It is licensed [CC-BY-ND-NC](https://creativecommons.org/licenses/by-nc-nd/2.0/), you are welcome to use the textbook at [inferentialthinking.com](https://inferentialthinking.com), but you may not modify or distribute it yourself without permission from the textbook authors.
-- [**Data 8 course materials**](https://github.com/data-8/materials-fds) includes notebooks, exercises, and other course materials. It is licensed [CC-BY-NC](https://creativecommons.org/licenses/by-nc/2.0/), and you are free to modify and distribute as you wish.  
+- **Data 8 course materials** include notebooks, exercises, and other course materials, licensed [CC-BY-NC](https://creativecommons.org/licenses/by-nc/2.0/). You are free to modify and distribute as you wish. We offer two adoption tracks:
+  - [**Version 1: materials-fds**](https://github.com/data-8/materials-fds) — the original adoption package (Spring 2022 basis)
+  - [**Version 2: materials-fds-v2**](https://github.com/data-8/materials-fds-v2) — Fall 2025 materials with tutoring worksheets, updated assignment datasets, multiple linear regression, and an improved Canvas shell. See the [Community College Adoption guide](cc-adoption/intro.md) for step-by-step setup.
 - **Private course materials**, including exams and answers. These are kept private in order to protect the integrity of the Data 8 courses at Berkeley and being run elsewhere. If you'd like access to these materials, please [fill out this Google form](https://forms.gle/iKLcryjZXit5913k7).
-- **Course Calendar and Demonstation Platforms** We have an [example course calendar](https://www.data8.org/materials-fds/demo.html) laying out the course week-to-week with appropriate notebooks linked to various rendering platforms.
+- **Course calendar and demonstration platforms** — [Version 1 demo calendar](https://www.data8.org/materials-fds/demo.html) and the [Fall 2025 course site](http://data8.org/fa25/) lay out the course week-to-week with notebooks linked to various rendering platforms.
 
 ## Technology Guide
 
